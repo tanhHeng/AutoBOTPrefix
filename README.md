@@ -1,5 +1,5 @@
 # AutoBOTPrefix
-自动为假人添加`[BOT]`前缀
+一个MCDReforged插件，能够自动为假人添加`[BOT]`前缀
 
 ## 功能
 
