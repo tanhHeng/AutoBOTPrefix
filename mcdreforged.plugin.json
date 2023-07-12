@@ -1,0 +1,13 @@
+{
+	"id": "auto_bot_prefix",
+	"version": "0.1.0",
+	"name": "Auto BOT prefix",
+	"description": {
+		"en_us": "Add '[BOT]' prefix to fake players",
+		"zh_cn": "自动为假人添加'[BOT]前缀'"
+	},
+	"author": [
+		"tanh_Heng"
+	],
+	"link": "https://github.com/tanhHeng/AutoBOTPrefix"
+}
